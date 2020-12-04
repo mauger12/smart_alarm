@@ -1,0 +1,18 @@
+{
+"API-keys": {
+    "weather": "30dde00f55098f5fa086580e5b1c542c",
+    "news": "8ca55a4bdb2c4d1188321945a4676310"
+    },
+
+"Display": {
+    "title": "Smart Alarm",
+    "image": "image.jpg"
+    },
+
+"Settings": {
+    "city": "Exeter",
+    "units": "metric",
+    "update_rate": "600",
+    "news_filters": [""]
+    }
+}
