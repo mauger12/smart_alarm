@@ -26,7 +26,7 @@ Contained in this package is a config.json file which is used to configure the o
 #Author
 * Nmae - Matthew Auger
 * email - mga209@exeter.ac.uk
-* github - ""
+* github - "https://github.com/mauger12/smart_alarm"
 
 #License
 Copyright 2020 Matthew Auger
